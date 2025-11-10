@@ -1,0 +1,9 @@
+{
+    "name": "Wallpaper Changer",
+    "description": "https://t.me/lirik00199",
+    "uuid": "wallpaper-changer@lirik00199",
+    "settings-schema": "org.gnome.shell.extensions.my-first-extension",
+    "shell-version": [
+        "49"
+    ]
+}
